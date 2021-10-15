@@ -1,5 +1,5 @@
 # Flip-Coin
-![Screenshot_1](https://user-images.githubusercontent.com/79935555/137412228-faf22a85-536b-42a7-8890-f6db21c9eb8b.png)
+![Coin](https://user-images.githubusercontent.com/79935555/137412228-faf22a85-536b-42a7-8890-f6db21c9eb8b.png)
 
 ### 💰 Sobre
 Flip Coin, jogue uma moeda e tente sua sorte entre cara e coroa, Boa sorte :D
